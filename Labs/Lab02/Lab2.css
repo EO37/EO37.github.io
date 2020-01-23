@@ -7,6 +7,7 @@
 .aDTop {
     border: 1px solid #cdcdcd;
     font-size: 20pt;
+    font-family: "Bookman Old Style";
     padding: 5%;
 }
 
@@ -29,7 +30,8 @@
 }
 
 .artistschool {
-    font-size: 12pt;
+    font-size: 11pt;
+    font-family: "Arial";
 }
 
 .artistInfo {
